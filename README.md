@@ -1,6 +1,5 @@
 <!-- =======================
      PROFILE README — Mario Latifi
-     Replace: YOUR_USERNAME, links, and any text you want.
      ======================= -->
 
 <div align="center">
@@ -8,21 +7,24 @@
 # Hi 👋, I’m Mario Latifi  
 ### 17 y/o IT student from Italy 🇮🇹 — I build clean apps and learn security stuff
 
-<!-- Typing intro (optional) -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=520&lines=C%23+%2F+.NET+8+%7C+WPF+%7C+OOP+%7C+SOLID;Clean+Architecture+%7C+JSON+Persistence;Cybersecurity+Explorer+%7C+CTF+Learner;Always+shipping+small+projects+%F0%9F%94%A5" />
 
-<!-- Quick badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=MarioLatifi&label=Profile%20views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/MarioLatifi?label=Followers&style=flat" />
   <img src="https://img.shields.io/github/stars/MarioLatifi?label=Stars&style=flat" />
 </p>
 
-<!-- Socials (edit links) -->
 <p>
   <a href="https://github.com/MarioLatifi"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail" /></a>
+
+  <!-- Discord: replace this link with your real Discord profile/invite -->
+  <a href="https://discord.gg/SDJhdQkheq"><img src="https://img.shields.io/badge/Discord-111?style=for-the-badge&logo=discord" /></a>
+
+  <a href="mailto:mariolatifi12@icloud.com"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail" /></a>
+
+  <a href="https://training.olicyber.it/player/14098"><img src="https://img.shields.io/badge/OliCyber%20Training-111?style=for-the-badge" /></a>
+  <a href="https://training.olinfo.it/user/PeachBuilt"><img src="https://img.shields.io/badge/OliInfo%20Training-111?style=for-the-badge" /></a>
 </p>
 
 </div>
@@ -46,6 +48,12 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-111?style=for-the-badge&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk)
+![Kotlin](https://img.shields.io/badge/Kotlin-111?style=for-the-badge&logo=kotlin)
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
 
 ### Frameworks / Tools
 ![.NET](https://img.shields.io/badge/.NET%208-111?style=for-the-badge&logo=dotnet)
