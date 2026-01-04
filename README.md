@@ -13,14 +13,14 @@
 
 <!-- Quick badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=MarioLatifi&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/MarioLatifi?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/MarioLatifi?label=Stars&style=flat" />
 </p>
 
 <!-- Socials (edit links) -->
 <p>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/MarioLatifi"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail" /></a>
 </p>
@@ -66,10 +66,10 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=MarioLatifi&show_icons=true&hide_border=true&theme=tokyonight" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLatifi&layout=compact&hide_border=true&theme=tokyonight" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=tokyonight" />
+<img height="170" src="https://streak-stats.demolab.com?user=MarioLatifi&hide_border=true&theme=tokyonight" />
 
 </div>
 
@@ -77,14 +77,14 @@
 
 ## 🏆 Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MarioLatifi&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ---
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioLatifi&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
@@ -99,7 +99,7 @@
 
 ## 🐍 Snake Contributions
 <div align="center">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/MarioLatifi/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
