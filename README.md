@@ -99,7 +99,7 @@
 
 ## 🐍 Snake Contributions
 <div align="center">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/MarioLatifi/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/MarioLatifi/MarioLatifi/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
