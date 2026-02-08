@@ -107,18 +107,8 @@
 
 ## 🐍 Snake Contributions
 <div align="center">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/MarioLatifi/MarioLatifi/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation (wip)" src="https://raw.githubusercontent.com/MarioLatifi/MarioLatifi/output/github-contribution-grid-snake.svg" />
 </div>
-
----
-
-## 📌 Pinned Projects (tip)
-Go to your profile → **Customize your pins** → pick your best repos:
-- 1 “flagship” app
-- 1 clean template / starter
-- 1 security/CTF repo
-- 1 utilities/tools repo
-- 1 school notes or learning repo
 
 ---
 
