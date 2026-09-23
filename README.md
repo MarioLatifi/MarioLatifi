@@ -5,7 +5,7 @@
 <div align="center">
 
 # Hi 👋, I’m Mario Latifi  
-### 17 y/o IT student from Italy 🇮🇹 — I build clean apps and learn security stuff
+### 18 y/o IT student from Italy 🇮🇹 — I build clean apps and learn security stuff
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=520&lines=C%23+%2F+.NET+8+%7C+WPF+%7C+OOP+%7C+SOLID;Clean+Architecture+%7C+JSON+Persistence;Cybersecurity+Explorer+%7C+CTF+Learner;Always+shipping+small+projects+%F0%9F%94%A5" />
 
@@ -32,7 +32,7 @@
 ---
 
 ## 🧠 About me
-- 🎓 IT student (4th year) focused on **software engineering + systems**
+- 🎓 IT student (5th year) focused on **software engineering + systems**
 - 🧱 I like **Clean Architecture**, **SOLID**, and writing code that’s easy to maintain
 - 🖥️ Main stack: **C# / .NET 8 / WPF**
 - 🔐 Also exploring **cybersecurity** + **CTFs**
